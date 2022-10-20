@@ -15,7 +15,8 @@
     ],
     "require": {
         "php": ">=7.4.3",
-        "version": "1.0.*"
+        
+        "vinay_vendor/vinay_package": "1.*"
     },
     "autoload": {
         "psr-0": {
