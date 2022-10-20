@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=7.4.3",
-        "another-vendor/package": "1.0.*"
+        "another-vendor/package": "*"
     },
     "autoload": {
         "psr-0": {
